@@ -1,3 +1,19 @@
 .navbar-custom {
     background-color: #2D4873;
 }
+
+.custom-btn {
+    font-weight: 600;
+    font-family: 'Scheme';
+}
+
+.custom-link {
+    color: white;
+    font-family: 'Scheme';
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    font-family: 'Scheme';
+    font-size: 1.4rem;
+}
