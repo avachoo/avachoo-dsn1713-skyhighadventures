@@ -18,4 +18,33 @@
     font-size: 1.4rem;
 }
 
+#hero {
+    height: 50vh;
+    background-color: #AAB6C3;
+    margin-top: 5px;
+    padding: 30px 50px;
+    
+}
 
+.hero-image {
+    max-width: 35%;
+    
+}
+
+h1 {
+    color: white;
+    font-family:'Scheme';
+    font-size: 4rem;
+    line-height: 0.7;
+}
+
+h2 {
+    font-family: "panno-sign-positive";
+    color: #2D4873;
+}
+
+p {
+    color: white;
+    font-family: "komet", sans-serif;
+    font-weight: 400;
+}
