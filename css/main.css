@@ -5,6 +5,7 @@
 .custom-btn {
     font-weight: 600;
     font-family: 'Scheme';
+    margin-bottom: 10px;
 }
 
 .custom-link {
@@ -19,32 +20,49 @@
 }
 
 #hero {
-    height: 50vh;
+    /* height: 50vh; */
     background-color: #AAB6C3;
-    margin-top: 5px;
-    padding: 30px 50px;
+    /* margin-top: 5px;
+    padding: 50px; */
     
 }
 
 .hero-image {
-    max-width: 35%;
+    /* max-width: 35%; */
     
 }
 
 h1 {
     color: white;
     font-family:'Scheme';
-    font-size: 4rem;
+    font-size: 4.5rem;
     line-height: 0.7;
 }
 
 h2 {
     font-family: "panno-sign-positive";
     color: #2D4873;
+    font-size: 2.2rem;
 }
 
 p {
     color: white;
     font-family: "komet", sans-serif;
     font-weight: 400;
+
 }
+
+.hero-text {
+    margin-top: 30px;
+}
+
+
+
+/* 
+@media (min-width: 576px) {
+    
+}
+
+@media (min-width: 768px) {
+    
+} */
